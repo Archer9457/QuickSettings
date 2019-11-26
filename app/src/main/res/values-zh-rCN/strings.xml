@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">设置</string>
+
+    <string name="str_settings_network">移动网络</string>
+    <string name="str_settings_wifi">WIFI</string>
+    <string name="str_settings_bluetooth">蓝牙</string>
+    <string name="str_settings_vpn">VPN</string>
+</resources>

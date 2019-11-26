@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">QuickSettings</string>
+
+    <string name="str_settings_network">Mobile Network</string>
+    <string name="str_settings_wifi">WIFI</string>
+    <string name="str_settings_bluetooth">Bluetooth</string>
+    <string name="str_settings_vpn">VPN</string>
+</resources>
